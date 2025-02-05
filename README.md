@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ DevOps Tools & Technologies
-<a href="git@github.com:ashwinishinde190/Terraform.git"target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
+<a href="git@github.com:ashwinishinde190/Terraform.git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> <a href="git@github.com:ashwinishinde190/jenkin.git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a> 
 <a href="git@github.com:ashwinishinde190/DOCKER.git
 " target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="52" height="52"/></a> 
