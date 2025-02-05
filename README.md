@@ -3,10 +3,10 @@
 🚀 DevOps Engineer | Cloud Architect | Linux Administrator | CI/CD Expert
 ---
 ### 🌟 Certifications
-[![AWS Certified Solutions Architect – Associate](https://github.com/ashwinishinde190/ashwinishinde190/blob/main/ (https://www.credly.com/badgesaws-certified-solutions-architect-associate.png/https://www.credly.com/users/ashwini-shinde.2b29ec13)]     
-Next One is Comming Soon ...
-
----
+ [![AWS Certified Solutions Architect – Associate](https://github.com/ashwinishinde190/ashwinishinde190.git/blob/main/aws-certified-solutions-architect-associate.png)](https://www.credly.com/users/ashwini-shinde.2b29ec13)     
+ Next One is Comming Soon ...
+  
+  ---
 
 ### 🛠️ DevOps Tools & Technologies
 <a href="git@github.com:ashwinishinde190/Terraform.git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
