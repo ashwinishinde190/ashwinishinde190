@@ -3,7 +3,7 @@
 🚀 DevOps Engineer | Cloud Architect | Linux Administrator | CI/CD Expert
 ---
 ### 🌟 Certifications
- [![AWS Certified Solutions Architect – Associate](https://github.com/ashwinishinde190/ashwinishinde190.git/blob/main/aws-certified-solutions-architect-associate.png)](https://www.credly.com/users/ashwini-shinde.2b29ec13)     
+[![AWS Certified Solutions Architect – Associate](https://github.com/ashwinishinde190/ashwinishinde190/blob/main/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/44102bd5-668d-4da6-a8fb-37dc632cf4e5/public_url)  
  Next One is Comming Soon ...
   
   ---
