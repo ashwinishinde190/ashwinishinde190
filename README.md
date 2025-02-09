@@ -57,6 +57,8 @@ Feel free to explore my repositories and reach out if you want to collaborate or
 
 -Linkdin
 https://www.linkedin.com/in/ashwini-shinde-310123320/
+-Myprofile
+https://ashwinishinde190.github.io/Myprofile-portal/
 
 ---
 
