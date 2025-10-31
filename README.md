@@ -56,7 +56,7 @@
 Feel free to explore my repositories and reach out if you want to collaborate or chat!
 
 -Myprofile
-https://ashwinishinde190.github.io/Myprofile-portal/
+https://ashwinishinde190.github.io/ashwini-portfolio/
 
 ---
 
